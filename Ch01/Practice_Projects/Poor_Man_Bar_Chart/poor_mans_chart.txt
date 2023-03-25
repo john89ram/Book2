@@ -1,0 +1,11 @@
+Create a python program that takes a sentence and creates a bar chart 
+that measures how many times each letter of the alphabet are being used 
+in the sentence. 
+
+create an empty dictionary with all the letters of the alphabet,
+    ex, {'a':[] } ...
+create a input var called: 'analyze_text',
+have python split analyze_text into a var called letters
+create a Function that loops through each letter in letters
+    and place them into their own key value list pair
+once complete have the program print the results
