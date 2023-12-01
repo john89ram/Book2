@@ -1,3 +1,13 @@
+# Integers - an integer is a data type that represents whole numbers without any 
+# fractional part. Integers can be positive, negative, or zero. In Python, you can define an integer by simply assigning a whole number to a variable.
+integer = 15
+print(integer)
+
+# Floats - a float is a data type that represents real numbers, including both 
+# integer and fractional parts. Floats are used to store numbers that may have a decimal point or an exponent (scientific notation).
+float = 15.0
+print(float)
+
 # Math Operators from Highest to Lowest Precedence
 
 # Operator      Operation           Example     Evaluates to...
