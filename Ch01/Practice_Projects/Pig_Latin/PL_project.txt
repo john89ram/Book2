@@ -1,7 +1,0 @@
-Pig latin 101 - 
-    Take an English word that begins with a consonant
-    Move the consonant to the end of the work and add "ay" to the end as well
-
-    If the word ends with a vowel just simply add "way" to the end instead
-
-Write a program that can take any sentence or word and translate it to pig latin.
