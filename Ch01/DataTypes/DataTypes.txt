@@ -1,0 +1,34 @@
+Numeric Types: - Complete
+    int: Integer type, representing whole numbers.
+    float: Floating-point type, representing real numbers with a decimal point.
+
+Sequence Types:
+    str: String type, representing sequences of characters (text).
+    list: List type, representing ordered, mutable sequences of elements.
+    tuple: Tuple type, representing ordered, immutable sequences of elements.
+
+Mapping Type:
+    dict: Dictionary type, representing an unordered collection of key-value pairs.
+
+Set Types:
+    set: Set type, representing an unordered collection of unique elements.
+    frozenset: An immutable version of a set.
+
+Boolean Type:
+    bool: Boolean type, representing either True or False.
+
+None Type:
+    NoneType: Represents the absence of a value or a null value. The singleton object is None.
+
+Binary Types:
+    bytes: Represents a sequence of bytes.
+    bytearray: Similar to bytes but mutable.
+
+Collection Types:
+    namedtuple: A factory function for creating tuple subclasses with named fields.
+    deque: Double-ended queue, supporting fast appends and pops from both ends.
+    Counter: A dictionary subclass for counting hashable objects.
+    OrderedDict: A dictionary subclass that maintains the order of inserted items.
+
+Text Type:
+    str: String type, but it's worth noting again as it is also used for handling Unicode text.
